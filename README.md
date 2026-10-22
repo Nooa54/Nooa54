@@ -63,8 +63,9 @@
 ## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nooa54&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nooa54&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nooa54 GitHub Activity Graph" />
 </p>
+
 
 ---
 
