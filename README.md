@@ -63,8 +63,17 @@
 ## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nooa54&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nooa54 GitHub Activity Graph" />
+  <a href="https://github.com/Nooa54">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nooa54&show_icons=true&theme=tokyonight&hide_border=true" alt="Nooa's GitHub Statistics" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Nooa54?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW-ALL_MY_REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View repositories" />
+  </a>
+</p>
+
 
 
 ---
