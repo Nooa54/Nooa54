@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Nooa54/Nooa54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm Nooa!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Learning to code | Opettelen koodaamaan
+
+🐍 Python · C++ · PHP · HTML · CSS
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nooa54-181717?style=for-the-badge&logo=github)](https://github.com/Nooa54)
+
+**Always learning. Always building. 🚀**
+
+</div>
